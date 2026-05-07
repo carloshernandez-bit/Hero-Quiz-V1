@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Hero",
+  "description": "Un juego de ritmo y conocimiento al estilo Guitar Hero. Elige la respuesta correcta mientras cae por la pista para seguir avanzando.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
